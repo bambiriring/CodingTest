@@ -1,3 +1,5 @@
+# https://softeer.ai/practice/6253
+
 import sys
 
 t = 0
